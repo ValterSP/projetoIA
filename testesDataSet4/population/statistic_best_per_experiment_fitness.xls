@@ -1,0 +1,22 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:	Problem file: 		Fitness:
+150	150	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		304
+150	200	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		300
+150	250	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		298
+150	300	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		296
+200	150	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		276
+200	200	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		260
+200	250	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		246
+200	300	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		246
+250	150	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		273
+250	200	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		264
+250	250	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		240
+250	300	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		240
+300	150	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		288
+300	200	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		276
+300	250	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		263
+300	300	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		259
+150	150	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		304
+150	200	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		300
+150	250	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		298
+150	300	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		296
+200	150	Tournament selection(2)	Recombination 2 (0.7)	Mutation 3 (0.08)	./problem4.txt		276

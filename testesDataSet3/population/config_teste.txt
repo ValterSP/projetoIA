@@ -1,0 +1,32 @@
+Runs: 10
+
+Population_size: 200, 250, 300, 350, 400
+
+Max_generations: 100, 150, 200, 250
+
+# --------------------------------
+
+Selection: tournament
+
+Tournament_size: 2
+
+# --------------------------------
+
+Recombination: recombination2
+
+Recombination_probability: 0.6
+
+# --------------------------------
+
+Mutation: insert
+
+Mutation_probability: 0.1
+
+# --------------------------------
+
+Problem_file: ./problem3.txt
+
+# --------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage

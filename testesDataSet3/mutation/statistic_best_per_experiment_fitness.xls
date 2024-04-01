@@ -1,0 +1,16 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:	Problem file: 		Fitness:
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.06)	./problem3.txt		167
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.08)	./problem3.txt		185
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.12)	./problem3.txt		177
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.14)	./problem3.txt		161
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 2 (0.06)	./problem3.txt		171
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 2 (0.08)	./problem3.txt		177
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 2 (0.1)	./problem3.txt		175
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 2 (0.12)	./problem3.txt		161
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 2 (0.14)	./problem3.txt		175
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 3 (0.06)	./problem3.txt		171
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 3 (0.08)	./problem3.txt		175
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 3 (0.1)	./problem3.txt		179
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 3 (0.12)	./problem3.txt		171
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Mutation 3 (0.14)	./problem3.txt		171

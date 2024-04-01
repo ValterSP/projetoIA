@@ -1,0 +1,13 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:	Problem file: 		Fitness:
+600	100	Tournament selection(4)	PMX recombination (0.7)	Mutation 3 (0.11)	./problem5.txt		407
+600	100	Tournament selection(4)	PMX recombination (0.8)	Mutation 3 (0.11)	./problem5.txt		421
+600	100	Tournament selection(4)	PMX recombination (0.75)	Mutation 3 (0.11)	./problem5.txt		419
+600	100	Tournament selection(4)	PMX recombination (0.85)	Mutation 3 (0.11)	./problem5.txt		421
+600	100	Tournament selection(4)	Recombination 2 (0.7)	Mutation 3 (0.11)	./problem5.txt		397
+600	100	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		403
+600	100	Tournament selection(4)	Recombination 2 (0.75)	Mutation 3 (0.11)	./problem5.txt		385
+600	100	Tournament selection(4)	Recombination 2 (0.85)	Mutation 3 (0.11)	./problem5.txt		383
+600	100	Tournament selection(4)	Recombination 3 (0.7)	Mutation 3 (0.11)	./problem5.txt		483
+600	100	Tournament selection(4)	Recombination 3 (0.8)	Mutation 3 (0.11)	./problem5.txt		475
+600	100	Tournament selection(4)	Recombination 3 (0.75)	Mutation 3 (0.11)	./problem5.txt		495
+600	100	Tournament selection(4)	Recombination 3 (0.85)	Mutation 3 (0.11)	./problem5.txt		473

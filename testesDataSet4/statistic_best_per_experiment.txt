@@ -1,0 +1,2587 @@
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 273
+[13, 28, 25, 10, 3, 2, 1, 9, 17, 21, 34, 35, 29, 39, 6, 11, 7, 4, 5, 8, 15, 16, 20, 33, 38, 40, 24, 36, 27, 19, 18, 22, 12, 14, 26, 23, 32, 37, 30, 31, 41]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 280
+[5, 4, 11, 7, 6, 12, 14, 39, 23, 31, 30, 32, 37, 29, 40, 10, 3, 1, 2, 9, 17, 21, 24, 34, 36, 35, 27, 18, 19, 22, 26, 41, 28, 25, 13, 8, 16, 20, 15, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 269
+[9, 1, 2, 17, 21, 24, 34, 19, 14, 26, 29, 31, 30, 39, 4, 11, 7, 15, 16, 5, 8, 20, 33, 38, 37, 32, 23, 40, 27, 35, 36, 12, 6, 3, 10, 13, 18, 22, 25, 28, 41]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 264
+[2, 1, 9, 34, 24, 22, 19, 18, 35, 36, 27, 26, 29, 41, 4, 7, 11, 5, 8, 15, 16, 33, 38, 20, 30, 39, 17, 21, 23, 32, 37, 31, 14, 12, 6, 3, 10, 13, 25, 28, 40]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 336
+[6, 23, 30, 31, 20, 16, 33, 21, 24, 34, 40, 11, 7, 4, 5, 8, 38, 15, 37, 32, 22, 19, 13, 26, 29, 41, 36, 35, 27, 18, 17, 9, 2, 1, 3, 10, 25, 28, 12, 14, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 310
+[11, 7, 16, 15, 20, 38, 32, 37, 40, 6, 4, 5, 8, 33, 30, 31, 39, 27, 34, 24, 9, 1, 2, 17, 22, 18, 19, 21, 26, 29, 41, 14, 12, 3, 10, 13, 23, 25, 28, 35, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 312
+[22, 28, 25, 26, 40, 23, 32, 37, 38, 33, 20, 31, 30, 27, 35, 36, 41, 21, 24, 34, 17, 10, 3, 19, 18, 9, 1, 2, 13, 39, 29, 14, 12, 6, 4, 5, 8, 16, 15, 7, 11]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 284
+[1, 2, 9, 22, 19, 18, 27, 35, 36, 34, 24, 25, 28, 41, 32, 37, 40, 21, 17, 6, 5, 8, 7, 4, 11, 23, 26, 29, 39, 38, 33, 20, 16, 15, 30, 31, 13, 3, 10, 12, 14]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 278
+[3, 10, 13, 26, 28, 25, 23, 30, 41, 4, 5, 8, 20, 15, 16, 33, 38, 40, 9, 2, 1, 6, 7, 11, 32, 37, 31, 39, 29, 12, 14, 17, 24, 34, 21, 36, 22, 19, 18, 27, 35]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 274
+[3, 10, 18, 19, 22, 21, 24, 34, 36, 35, 12, 29, 26, 41, 14, 6, 4, 7, 11, 8, 5, 16, 15, 20, 33, 38, 32, 37, 39, 9, 2, 1, 17, 13, 25, 28, 23, 30, 31, 40, 27]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 296
+[1, 2, 9, 17, 21, 27, 36, 35, 22, 19, 7, 11, 28, 41, 5, 8, 16, 15, 20, 38, 33, 32, 37, 30, 31, 39, 24, 34, 18, 25, 13, 10, 3, 4, 6, 12, 14, 23, 26, 29, 40]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 330
+[13, 25, 12, 6, 1, 17, 21, 24, 34, 41, 7, 8, 16, 38, 32, 23, 3, 10, 28, 40, 9, 2, 18, 19, 22, 36, 27, 35, 39, 29, 26, 30, 31, 14, 11, 4, 5, 15, 20, 33, 37]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 282
+[19, 35, 34, 41, 6, 14, 12, 10, 3, 13, 18, 22, 27, 36, 39, 2, 1, 9, 17, 21, 24, 28, 25, 23, 31, 30, 32, 37, 40, 29, 33, 38, 20, 15, 16, 8, 5, 11, 7, 4, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 305
+[3, 10, 12, 14, 6, 4, 11, 16, 20, 18, 19, 22, 27, 36, 35, 41, 7, 5, 8, 15, 37, 23, 29, 39, 9, 1, 2, 17, 21, 34, 24, 13, 32, 38, 33, 30, 31, 40, 26, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 323
+[27, 35, 36, 10, 7, 4, 5, 16, 20, 30, 31, 41, 23, 33, 38, 40, 3, 13, 11, 8, 15, 37, 32, 39, 29, 26, 12, 14, 6, 1, 2, 9, 18, 19, 22, 34, 24, 17, 21, 28, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 306
+[10, 3, 1, 2, 9, 24, 34, 40, 5, 8, 12, 14, 26, 39, 17, 21, 22, 19, 18, 30, 31, 23, 16, 15, 33, 38, 25, 29, 41, 37, 32, 20, 11, 7, 4, 6, 13, 36, 27, 35, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 295
+[32, 37, 38, 33, 16, 11, 7, 4, 5, 8, 15, 20, 23, 26, 40, 3, 1, 2, 9, 10, 13, 30, 31, 39, 17, 21, 27, 24, 34, 35, 36, 22, 19, 18, 6, 12, 14, 28, 25, 41, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 3 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 328
+[3, 10, 6, 13, 22, 18, 9, 1, 2, 21, 24, 34, 39, 19, 27, 35, 36, 37, 32, 12, 14, 26, 28, 25, 23, 30, 31, 41, 17, 29, 40, 11, 7, 4, 5, 8, 15, 20, 33, 16, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 323
+[18, 19, 35, 36, 28, 25, 31, 30, 23, 8, 5, 16, 20, 37, 32, 29, 41, 7, 4, 2, 1, 3, 10, 13, 6, 40, 9, 17, 21, 24, 34, 27, 22, 14, 12, 11, 15, 33, 38, 39, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 310
+[2, 1, 9, 17, 13, 25, 28, 30, 31, 35, 27, 36, 41, 7, 5, 8, 20, 32, 37, 29, 12, 10, 3, 6, 14, 26, 40, 21, 24, 34, 22, 19, 18, 23, 4, 11, 16, 15, 33, 38, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 280
+[35, 39, 7, 11, 4, 5, 8, 15, 16, 20, 31, 30, 40, 17, 9, 2, 1, 6, 14, 12, 3, 10, 21, 24, 34, 41, 29, 26, 33, 38, 37, 32, 23, 19, 18, 22, 36, 27, 13, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 299
+[19, 22, 17, 21, 34, 14, 11, 7, 4, 5, 8, 16, 15, 20, 32, 40, 23, 33, 38, 37, 31, 30, 39, 24, 41, 29, 26, 12, 6, 9, 2, 1, 3, 10, 13, 25, 18, 27, 36, 35, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 268
+[9, 10, 3, 6, 13, 25, 39, 4, 7, 11, 8, 5, 16, 15, 20, 38, 33, 32, 37, 41, 17, 21, 2, 1, 12, 23, 30, 31, 26, 29, 40, 34, 24, 22, 18, 19, 27, 36, 35, 14, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 326
+[13, 28, 22, 19, 18, 1, 10, 14, 26, 29, 39, 23, 31, 40, 2, 9, 17, 21, 24, 34, 35, 36, 27, 25, 32, 20, 38, 37, 41, 12, 6, 3, 4, 7, 11, 8, 5, 15, 33, 16, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 336
+[19, 18, 32, 20, 8, 5, 15, 16, 33, 38, 41, 11, 7, 37, 30, 31, 39, 27, 35, 36, 34, 24, 21, 22, 12, 14, 25, 28, 40, 29, 23, 4, 3, 1, 2, 9, 17, 13, 10, 6, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 292
+[3, 10, 9, 2, 1, 21, 24, 34, 35, 27, 18, 19, 22, 36, 39, 11, 4, 7, 5, 8, 16, 15, 40, 17, 23, 31, 30, 41, 29, 37, 32, 38, 33, 20, 26, 13, 6, 12, 14, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.5)
+Mutation:Mutation 3 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 312
+[6, 23, 37, 32, 38, 33, 20, 15, 16, 30, 31, 29, 41, 5, 8, 4, 7, 11, 17, 21, 25, 13, 10, 3, 28, 39, 1, 2, 9, 24, 34, 22, 19, 18, 27, 35, 36, 26, 40, 14, 12]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 339
+[8, 16, 15, 20, 33, 38, 32, 37, 13, 25, 19, 22, 27, 36, 35, 40, 11, 7, 4, 5, 12, 39, 2, 9, 6, 18, 24, 28, 23, 31, 30, 41, 29, 26, 14, 10, 3, 1, 17, 21, 34]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 286
+[23, 30, 31, 26, 40, 14, 10, 13, 24, 34, 36, 35, 27, 19, 18, 22, 25, 28, 41, 21, 17, 2, 1, 9, 3, 6, 12, 29, 39, 37, 38, 33, 20, 5, 8, 11, 4, 7, 15, 16, 32]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 294
+[19, 27, 37, 32, 33, 38, 30, 29, 41, 5, 8, 20, 15, 16, 11, 7, 4, 6, 12, 10, 3, 13, 40, 17, 2, 1, 9, 21, 24, 34, 35, 36, 22, 18, 23, 31, 39, 26, 14, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 276
+[7, 15, 16, 20, 33, 38, 32, 37, 39, 23, 11, 4, 8, 5, 6, 12, 14, 26, 30, 31, 41, 9, 1, 2, 3, 10, 13, 25, 28, 40, 35, 36, 34, 24, 21, 17, 19, 18, 22, 27, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 258
+[23, 31, 30, 41, 11, 7, 4, 8, 5, 16, 15, 20, 33, 38, 37, 32, 26, 40, 35, 36, 27, 34, 24, 17, 21, 22, 19, 18, 25, 39, 14, 12, 6, 10, 3, 1, 2, 9, 13, 28, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 274
+[10, 3, 6, 12, 28, 41, 14, 26, 39, 1, 2, 9, 17, 21, 24, 34, 18, 19, 27, 35, 36, 22, 13, 25, 30, 31, 40, 29, 23, 32, 37, 33, 20, 11, 7, 4, 5, 8, 16, 15, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 262
+[1, 2, 9, 17, 21, 34, 40, 14, 12, 6, 3, 10, 13, 22, 19, 18, 25, 28, 26, 41, 24, 27, 36, 35, 23, 31, 30, 32, 37, 39, 38, 33, 20, 16, 15, 5, 8, 7, 4, 11, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 260
+[9, 2, 1, 3, 10, 13, 6, 12, 14, 39, 4, 7, 11, 8, 5, 20, 16, 15, 26, 29, 23, 30, 31, 40, 17, 21, 25, 28, 36, 35, 27, 24, 19, 18, 22, 34, 41, 32, 37, 38, 33]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 278
+[16, 15, 20, 33, 38, 37, 32, 39, 5, 8, 3, 10, 6, 12, 14, 23, 31, 30, 40, 17, 24, 34, 35, 36, 27, 22, 18, 19, 2, 1, 9, 21, 13, 25, 28, 41, 29, 26, 11, 4, 7]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 298
+[13, 6, 14, 30, 31, 23, 22, 26, 39, 5, 8, 4, 7, 11, 15, 16, 20, 33, 38, 32, 37, 36, 40, 2, 1, 10, 3, 12, 29, 41, 28, 25, 18, 19, 9, 21, 17, 24, 34, 27, 35]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 316
+[22, 34, 24, 13, 30, 23, 12, 26, 39, 3, 10, 11, 7, 4, 14, 36, 35, 27, 25, 28, 40, 17, 2, 1, 9, 21, 18, 19, 6, 29, 41, 37, 32, 38, 33, 20, 8, 5, 15, 16, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 272
+[3, 6, 12, 13, 28, 14, 41, 4, 7, 32, 37, 40, 21, 17, 9, 2, 1, 10, 19, 18, 22, 24, 34, 35, 36, 27, 25, 39, 29, 26, 30, 31, 23, 11, 5, 8, 20, 15, 16, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 295
+[3, 10, 14, 6, 11, 7, 32, 37, 23, 31, 30, 40, 12, 13, 28, 25, 35, 36, 27, 22, 26, 29, 41, 9, 2, 1, 18, 19, 24, 17, 21, 34, 39, 38, 33, 16, 4, 5, 8, 15, 20]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 290
+[1, 2, 9, 10, 14, 25, 34, 41, 20, 16, 15, 8, 5, 4, 7, 11, 6, 12, 26, 40, 23, 30, 31, 37, 32, 38, 33, 39, 29, 35, 36, 27, 21, 17, 24, 22, 19, 18, 3, 13, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 282
+[18, 10, 3, 4, 7, 11, 5, 8, 16, 15, 20, 33, 38, 32, 37, 41, 9, 1, 2, 19, 22, 35, 36, 27, 25, 28, 13, 26, 12, 14, 29, 40, 17, 34, 24, 21, 6, 23, 30, 31, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 275
+[8, 5, 4, 7, 11, 16, 15, 20, 23, 31, 30, 25, 28, 39, 6, 3, 10, 12, 14, 26, 29, 41, 17, 21, 35, 36, 27, 18, 19, 22, 13, 9, 2, 1, 24, 34, 40, 37, 32, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 315
+[16, 15, 3, 1, 2, 9, 17, 22, 19, 39, 12, 6, 11, 7, 4, 5, 8, 20, 33, 38, 37, 32, 23, 29, 26, 41, 21, 34, 24, 27, 36, 35, 18, 13, 10, 14, 40, 31, 30, 28, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 280
+[2, 9, 21, 22, 25, 12, 41, 4, 7, 11, 6, 14, 39, 34, 24, 17, 1, 3, 10, 13, 28, 19, 18, 27, 36, 35, 40, 32, 37, 38, 33, 20, 16, 15, 5, 8, 23, 31, 30, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 280
+[2, 9, 21, 22, 25, 12, 41, 4, 7, 11, 6, 14, 39, 34, 24, 17, 1, 3, 10, 13, 28, 19, 18, 27, 36, 35, 40, 32, 37, 38, 33, 20, 16, 15, 5, 8, 23, 31, 30, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 298
+[1, 2, 9, 19, 18, 14, 41, 30, 31, 37, 32, 38, 11, 7, 4, 16, 15, 20, 33, 39, 17, 21, 24, 34, 36, 35, 27, 22, 25, 28, 40, 29, 13, 3, 10, 12, 8, 5, 6, 23, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 306
+[1, 2, 9, 19, 18, 22, 36, 29, 26, 23, 31, 32, 37, 41, 11, 38, 30, 14, 12, 10, 13, 25, 40, 17, 21, 24, 34, 27, 35, 39, 33, 20, 15, 16, 8, 5, 7, 4, 6, 3, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 325
+[3, 6, 11, 7, 4, 5, 8, 12, 26, 24, 34, 28, 40, 23, 31, 30, 13, 10, 22, 35, 38, 33, 16, 15, 20, 32, 37, 39, 2, 1, 9, 17, 21, 36, 27, 19, 18, 25, 14, 29, 41]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 322
+[3, 12, 11, 4, 7, 20, 32, 30, 31, 39, 14, 28, 25, 22, 18, 19, 24, 26, 29, 40, 9, 2, 1, 17, 21, 34, 27, 35, 36, 41, 37, 38, 33, 15, 16, 8, 5, 13, 10, 6, 23]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 303
+[18, 19, 22, 27, 24, 21, 2, 9, 10, 13, 25, 28, 26, 39, 4, 7, 11, 8, 5, 16, 15, 38, 33, 20, 32, 41, 1, 3, 17, 34, 35, 36, 40, 37, 6, 12, 14, 31, 30, 23, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 320
+[22, 25, 28, 13, 7, 4, 6, 26, 41, 11, 16, 15, 20, 33, 38, 37, 32, 8, 5, 23, 40, 24, 34, 36, 35, 27, 14, 12, 30, 31, 39, 21, 9, 2, 1, 3, 10, 18, 19, 17, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 326
+[27, 36, 35, 32, 37, 33, 15, 16, 38, 30, 31, 23, 26, 41, 4, 7, 11, 6, 1, 2, 9, 21, 17, 3, 10, 12, 14, 40, 24, 34, 29, 20, 8, 5, 13, 22, 19, 18, 25, 28, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 340
+[1, 9, 15, 16, 8, 5, 20, 33, 38, 39, 12, 14, 6, 23, 31, 21, 24, 34, 28, 29, 40, 2, 17, 36, 35, 27, 25, 13, 10, 3, 4, 7, 11, 32, 37, 30, 41, 18, 22, 19, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 284
+[22, 34, 36, 35, 29, 26, 39, 11, 8, 5, 15, 16, 20, 38, 33, 32, 28, 41, 17, 21, 24, 27, 18, 19, 9, 1, 2, 3, 10, 13, 25, 40, 14, 12, 6, 4, 7, 37, 23, 31, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 280
+[13, 18, 24, 34, 35, 36, 27, 41, 4, 11, 32, 37, 23, 6, 12, 14, 31, 30, 40, 21, 17, 1, 2, 9, 10, 3, 7, 5, 8, 15, 16, 20, 33, 38, 39, 29, 26, 22, 19, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 300
+[12, 6, 4, 7, 11, 20, 33, 40, 17, 24, 34, 30, 31, 23, 38, 41, 21, 9, 2, 1, 3, 10, 19, 18, 22, 27, 36, 35, 13, 25, 28, 39, 29, 26, 14, 5, 8, 15, 16, 32, 37]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 300
+[10, 13, 25, 28, 36, 14, 29, 41, 3, 2, 6, 12, 26, 30, 31, 40, 1, 9, 17, 21, 34, 24, 22, 18, 19, 27, 35, 39, 23, 37, 38, 33, 20, 8, 5, 4, 7, 11, 16, 15, 32]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 352
+[12, 8, 15, 16, 20, 37, 25, 28, 40, 4, 7, 11, 14, 6, 3, 2, 17, 34, 29, 41, 1, 9, 24, 21, 35, 36, 27, 22, 19, 18, 10, 13, 26, 39, 30, 23, 33, 38, 32, 5, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 313
+[1, 2, 9, 17, 21, 27, 36, 28, 38, 33, 29, 40, 6, 3, 4, 11, 7, 5, 8, 15, 16, 20, 37, 39, 34, 35, 22, 19, 13, 25, 32, 23, 30, 31, 41, 26, 14, 12, 10, 18, 24]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 310
+[18, 19, 22, 30, 31, 40, 1, 2, 6, 11, 7, 3, 10, 13, 25, 39, 9, 17, 21, 24, 34, 35, 27, 36, 28, 32, 37, 41, 29, 38, 33, 15, 16, 20, 8, 5, 4, 12, 14, 26, 23]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 314
+[17, 21, 22, 33, 38, 39, 11, 15, 20, 16, 8, 5, 4, 7, 6, 18, 19, 25, 28, 41, 24, 34, 27, 36, 35, 2, 1, 9, 13, 32, 37, 40, 10, 3, 12, 14, 29, 26, 23, 30, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.6)
+Mutation:Mutation 3 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 294
+[22, 36, 35, 27, 18, 19, 21, 24, 34, 40, 31, 30, 41, 17, 9, 2, 1, 4, 7, 11, 16, 15, 33, 38, 32, 37, 39, 14, 12, 6, 5, 8, 20, 23, 26, 29, 13, 10, 3, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 316
+[9, 17, 18, 36, 28, 40, 23, 31, 32, 37, 33, 20, 15, 16, 6, 12, 14, 41, 24, 21, 2, 1, 34, 35, 27, 22, 19, 25, 26, 29, 39, 13, 10, 3, 11, 7, 4, 5, 8, 38, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 257
+[11, 7, 15, 16, 33, 38, 37, 32, 26, 29, 41, 4, 5, 8, 20, 40, 21, 24, 34, 17, 9, 2, 1, 3, 10, 13, 25, 28, 39, 30, 31, 23, 14, 12, 6, 19, 18, 22, 27, 35, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 294
+[22, 4, 7, 13, 28, 39, 10, 3, 1, 2, 9, 18, 19, 24, 34, 35, 36, 27, 41, 17, 21, 25, 31, 30, 37, 32, 16, 15, 20, 33, 38, 40, 29, 23, 11, 8, 5, 6, 14, 12, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 267
+[19, 18, 11, 7, 4, 15, 16, 20, 33, 38, 37, 32, 23, 30, 31, 41, 5, 8, 6, 3, 10, 13, 28, 25, 14, 26, 40, 2, 1, 9, 17, 21, 24, 34, 22, 27, 36, 35, 39, 29, 12]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 326
+[23, 11, 7, 4, 5, 8, 16, 33, 38, 37, 29, 41, 6, 3, 10, 13, 34, 19, 26, 14, 31, 30, 40, 17, 27, 36, 35, 22, 18, 24, 21, 9, 1, 2, 12, 25, 28, 39, 20, 15, 32]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 310
+[3, 10, 7, 11, 15, 33, 38, 37, 32, 23, 41, 6, 12, 14, 29, 26, 13, 19, 18, 22, 35, 34, 28, 40, 1, 2, 9, 17, 21, 24, 27, 36, 25, 39, 30, 31, 20, 16, 4, 5, 8]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 302
+[34, 24, 21, 26, 23, 31, 30, 41, 4, 7, 11, 10, 3, 13, 27, 36, 35, 22, 19, 18, 25, 28, 40, 17, 9, 2, 1, 6, 5, 8, 15, 32, 39, 38, 33, 16, 20, 14, 12, 37, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 305
+[18, 19, 22, 25, 28, 13, 6, 12, 14, 31, 30, 38, 37, 32, 23, 26, 29, 41, 11, 4, 5, 8, 10, 3, 1, 2, 9, 21, 27, 39, 17, 24, 34, 35, 36, 40, 20, 16, 7, 15, 33]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 284
+[26, 29, 23, 15, 20, 32, 37, 31, 30, 25, 28, 39, 14, 12, 6, 11, 4, 7, 5, 8, 16, 33, 38, 40, 9, 2, 1, 21, 17, 24, 34, 36, 22, 18, 19, 3, 10, 13, 27, 35, 41]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.6)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 270
+[19, 9, 2, 1, 3, 10, 6, 13, 25, 39, 11, 7, 4, 5, 16, 37, 31, 30, 23, 26, 29, 40, 17, 21, 24, 34, 18, 22, 27, 35, 36, 41, 28, 14, 12, 8, 15, 20, 33, 38, 32]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.6)
+Mutation:Insert Mutation (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 319
+[22, 35, 36, 27, 17, 34, 28, 38, 32, 39, 6, 12, 14, 26, 18, 21, 25, 41, 24, 19, 1, 2, 9, 13, 10, 3, 29, 40, 30, 31, 23, 11, 7, 4, 5, 8, 16, 15, 20, 33, 37]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.6)
+Mutation:Insert Mutation (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 292
+[13, 10, 6, 5, 8, 16, 15, 20, 30, 41, 4, 7, 11, 14, 29, 26, 22, 25, 28, 39, 17, 21, 18, 19, 9, 2, 1, 3, 12, 23, 31, 40, 34, 24, 27, 35, 36, 32, 37, 38, 33]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 299
+[3, 6, 7, 12, 14, 25, 36, 17, 24, 34, 41, 11, 4, 5, 8, 15, 16, 20, 33, 38, 37, 32, 30, 31, 23, 26, 39, 21, 9, 2, 1, 10, 13, 28, 40, 35, 27, 18, 19, 22, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 2 (0.08)
+Problem file: ../data_sets/problem4.txt
+Fitness: 298
+[2, 9, 10, 13, 22, 34, 35, 27, 25, 26, 29, 40, 11, 4, 7, 5, 8, 20, 15, 16, 33, 38, 37, 32, 39, 24, 21, 17, 19, 18, 1, 6, 3, 28, 41, 30, 31, 23, 12, 14, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 200
+Max generations: 200
+Selection: Tournament selection(4)
+Recombination: Recombination 2 (0.6)
+Mutation:Mutation 2 (0.12)
+Problem file: ../data_sets/problem4.txt
+Fitness: 344
+[6, 12, 25, 23, 31, 32, 40, 7, 11, 16, 37, 28, 39, 9, 2, 1, 3, 18, 19, 22, 21, 17, 24, 34, 36, 27, 35, 41, 29, 26, 14, 10, 13, 30, 20, 15, 8, 5, 4, 38, 33]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 350
+Max generations: 50
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 516
+[18, 27, 10, 25, 22, 15, 20, 31, 11, 4, 7, 37, 32, 41, 33, 38, 8, 5, 19, 30, 23, 28, 35, 36, 16, 40, 21, 3, 34, 39, 6, 2, 1, 9, 13, 24, 17, 26, 14, 12, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 350
+Max generations: 50
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 521
+[29, 14, 2, 9, 15, 16, 5, 4, 8, 7, 20, 38, 33, 37, 41, 6, 28, 31, 25, 27, 35, 36, 18, 19, 13, 40, 17, 30, 23, 22, 12, 10, 1, 21, 24, 34, 26, 39, 3, 32, 11]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 350
+Max generations: 50
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 504
+[9, 22, 24, 34, 28, 18, 19, 6, 23, 35, 21, 40, 30, 25, 29, 14, 38, 32, 31, 33, 8, 7, 4, 37, 41, 36, 39, 26, 15, 16, 20, 5, 11, 1, 17, 27, 13, 2, 10, 3, 12]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 350
+Max generations: 50
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 538
+[12, 23, 3, 4, 5, 8, 14, 29, 13, 31, 25, 22, 39, 26, 27, 21, 2, 9, 1, 10, 19, 36, 35, 24, 18, 17, 28, 30, 41, 20, 38, 16, 33, 15, 11, 6, 32, 7, 37, 34, 40]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 298
+[3, 10, 6, 11, 7, 4, 8, 5, 16, 15, 20, 32, 40, 13, 19, 22, 36, 35, 27, 26, 33, 38, 37, 23, 30, 31, 41, 24, 34, 9, 2, 1, 17, 21, 18, 25, 28, 29, 39, 12, 14]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 293
+[18, 19, 17, 11, 7, 4, 5, 8, 16, 12, 14, 26, 29, 40, 23, 30, 31, 38, 33, 20, 15, 32, 37, 41, 34, 24, 21, 1, 2, 9, 10, 3, 6, 13, 25, 28, 39, 36, 22, 27, 35]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 289
+[2, 3, 10, 12, 14, 23, 30, 31, 29, 26, 13, 25, 28, 39, 4, 6, 41, 9, 1, 17, 24, 21, 34, 19, 18, 22, 35, 36, 27, 40, 38, 33, 15, 8, 5, 7, 11, 16, 20, 32, 37]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 368
+[27, 36, 13, 28, 25, 14, 16, 7, 11, 31, 41, 3, 21, 17, 9, 2, 1, 4, 37, 32, 26, 40, 10, 6, 5, 8, 15, 20, 33, 38, 30, 39, 29, 12, 23, 22, 19, 18, 24, 34, 35]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 294
+[1, 2, 9, 17, 21, 34, 24, 18, 19, 10, 3, 13, 39, 6, 12, 14, 25, 28, 40, 22, 35, 27, 36, 30, 20, 38, 32, 37, 41, 33, 8, 5, 4, 7, 11, 16, 15, 23, 31, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 296
+[3, 10, 25, 30, 38, 33, 37, 31, 23, 26, 40, 4, 11, 12, 14, 6, 7, 5, 8, 15, 20, 16, 32, 41, 17, 21, 9, 1, 2, 13, 28, 36, 35, 27, 18, 19, 22, 24, 34, 29, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 315
+[10, 3, 6, 12, 9, 1, 2, 21, 24, 34, 17, 27, 35, 39, 7, 4, 11, 8, 5, 38, 33, 15, 16, 20, 32, 37, 30, 40, 36, 18, 28, 41, 26, 25, 23, 31, 13, 19, 22, 14, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 273
+[14, 23, 11, 7, 4, 5, 8, 20, 16, 15, 33, 38, 37, 32, 31, 39, 6, 12, 26, 29, 22, 18, 19, 35, 36, 27, 28, 41, 24, 34, 21, 17, 9, 2, 1, 3, 10, 13, 25, 40, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 345
+[3, 6, 5, 19, 27, 35, 36, 18, 22, 25, 13, 28, 39, 15, 30, 31, 32, 37, 7, 4, 11, 8, 20, 16, 33, 38, 40, 14, 12, 10, 1, 2, 9, 17, 34, 24, 21, 23, 26, 41, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 330
+[10, 3, 5, 8, 15, 16, 11, 7, 4, 37, 20, 33, 38, 39, 13, 21, 17, 1, 2, 9, 36, 27, 19, 29, 26, 41, 24, 34, 35, 22, 18, 6, 12, 14, 32, 25, 28, 23, 30, 31, 40]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 358
+[19, 22, 37, 32, 31, 30, 23, 33, 16, 38, 39, 1, 9, 2, 11, 7, 4, 8, 5, 15, 20, 14, 12, 40, 34, 24, 17, 21, 13, 3, 6, 10, 18, 36, 35, 26, 25, 28, 41, 29, 27]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 291
+[18, 22, 27, 35, 14, 12, 23, 37, 32, 20, 33, 38, 39, 6, 4, 7, 11, 16, 15, 8, 5, 30, 40, 24, 34, 21, 17, 9, 2, 1, 3, 10, 13, 25, 28, 31, 41, 26, 29, 19, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 336
+[18, 13, 25, 29, 27, 36, 35, 22, 19, 34, 28, 39, 23, 41, 24, 21, 17, 9, 1, 2, 6, 3, 10, 4, 11, 7, 40, 38, 33, 5, 8, 16, 15, 20, 32, 37, 12, 14, 31, 30, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 304
+[10, 3, 6, 4, 12, 26, 30, 31, 41, 5, 8, 11, 7, 15, 16, 20, 23, 33, 38, 37, 32, 40, 17, 27, 36, 19, 35, 39, 34, 24, 21, 9, 1, 2, 18, 22, 13, 25, 28, 14, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 306
+[12, 23, 11, 4, 7, 16, 15, 33, 38, 37, 32, 41, 1, 2, 9, 17, 21, 24, 40, 10, 13, 3, 6, 5, 8, 20, 30, 31, 39, 18, 19, 22, 34, 35, 36, 27, 28, 25, 14, 29, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 306
+[6, 26, 31, 30, 23, 16, 20, 33, 38, 32, 37, 41, 12, 3, 10, 7, 5, 8, 15, 11, 4, 14, 40, 17, 34, 24, 21, 9, 1, 2, 13, 22, 19, 18, 27, 36, 35, 39, 29, 28, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 296
+[13, 22, 19, 18, 27, 36, 35, 24, 34, 41, 15, 16, 20, 32, 37, 11, 7, 4, 5, 8, 23, 26, 40, 9, 1, 21, 17, 2, 3, 10, 6, 12, 39, 29, 14, 28, 25, 30, 31, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 316
+[3, 25, 28, 35, 27, 36, 38, 15, 20, 16, 33, 37, 32, 40, 7, 11, 4, 8, 5, 6, 14, 29, 26, 12, 10, 13, 23, 30, 39, 1, 2, 9, 17, 34, 21, 24, 18, 19, 22, 31, 41]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 281
+[1, 2, 9, 18, 19, 22, 27, 17, 21, 24, 34, 13, 29, 41, 5, 8, 7, 4, 11, 32, 15, 16, 20, 31, 30, 39, 36, 35, 23, 37, 38, 33, 40, 26, 14, 12, 6, 3, 10, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 368
+[3, 10, 14, 28, 30, 31, 23, 37, 32, 15, 20, 33, 38, 39, 5, 8, 16, 4, 7, 11, 6, 22, 36, 27, 35, 34, 17, 40, 21, 24, 9, 19, 1, 2, 26, 29, 41, 12, 13, 25, 18]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 284
+[3, 10, 14, 6, 11, 7, 4, 5, 8, 15, 16, 20, 33, 38, 41, 40, 17, 9, 2, 1, 21, 24, 34, 28, 25, 35, 36, 27, 39, 37, 32, 12, 22, 18, 19, 13, 26, 29, 23, 31, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 372
+[3, 13, 28, 6, 1, 2, 10, 12, 41, 14, 30, 20, 38, 33, 8, 5, 7, 11, 4, 15, 16, 23, 31, 37, 32, 39, 24, 34, 27, 19, 22, 18, 9, 17, 21, 26, 35, 36, 25, 29, 40]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 271
+[3, 10, 2, 1, 9, 17, 21, 18, 27, 36, 28, 25, 13, 41, 4, 7, 11, 8, 5, 15, 16, 20, 33, 38, 37, 32, 23, 40, 24, 34, 39, 29, 26, 30, 31, 14, 12, 6, 19, 22, 35]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 406
+[18, 28, 25, 19, 10, 6, 12, 3, 1, 2, 9, 13, 14, 39, 11, 4, 8, 15, 33, 20, 5, 7, 37, 32, 16, 38, 35, 40, 27, 17, 21, 22, 23, 26, 34, 24, 36, 30, 31, 29, 41]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 364
+[9, 3, 10, 18, 19, 36, 27, 22, 21, 34, 24, 17, 41, 35, 40, 1, 2, 4, 5, 8, 20, 16, 15, 11, 7, 33, 23, 30, 31, 39, 26, 38, 32, 37, 6, 12, 25, 28, 13, 14, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 299
+[10, 13, 31, 30, 4, 7, 11, 5, 8, 16, 20, 15, 37, 32, 41, 23, 14, 12, 6, 3, 1, 9, 2, 17, 21, 22, 27, 36, 39, 24, 34, 35, 19, 18, 25, 28, 40, 38, 33, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 348
+[3, 10, 13, 22, 19, 9, 2, 1, 17, 21, 34, 24, 36, 40, 20, 15, 16, 33, 8, 5, 4, 11, 7, 31, 32, 38, 37, 39, 28, 25, 41, 30, 23, 14, 29, 26, 27, 18, 35, 6, 12]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 307
+[3, 10, 22, 18, 34, 24, 9, 2, 1, 21, 28, 25, 39, 8, 5, 15, 20, 16, 32, 11, 7, 4, 23, 26, 41, 17, 30, 31, 38, 33, 37, 40, 29, 12, 14, 6, 13, 19, 35, 27, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 386
+[14, 12, 39, 23, 30, 15, 33, 16, 20, 11, 7, 4, 32, 41, 2, 10, 3, 5, 8, 38, 37, 36, 35, 27, 13, 26, 29, 40, 6, 1, 9, 24, 18, 22, 17, 21, 19, 34, 28, 25, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 295
+[9, 2, 1, 17, 21, 24, 12, 14, 6, 3, 10, 13, 28, 25, 39, 4, 7, 11, 23, 8, 5, 16, 15, 20, 33, 38, 31, 41, 34, 40, 32, 37, 30, 19, 35, 36, 27, 18, 22, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 360
+[2, 1, 9, 19, 18, 22, 14, 29, 26, 25, 28, 24, 34, 36, 41, 4, 11, 8, 5, 38, 37, 32, 13, 21, 27, 35, 39, 17, 40, 33, 20, 16, 15, 7, 10, 3, 23, 6, 12, 31, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 302
+[13, 14, 12, 6, 37, 30, 40, 33, 38, 16, 15, 20, 8, 5, 11, 4, 7, 32, 41, 17, 9, 2, 1, 3, 10, 26, 39, 29, 28, 25, 21, 24, 34, 19, 22, 18, 36, 35, 27, 23, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 292
+[3, 10, 13, 6, 12, 14, 26, 29, 40, 4, 5, 8, 15, 16, 20, 33, 38, 32, 37, 28, 41, 17, 27, 36, 35, 21, 1, 2, 9, 39, 30, 31, 23, 11, 7, 19, 18, 22, 24, 34, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 362
+[27, 18, 22, 19, 31, 16, 15, 20, 32, 37, 30, 29, 41, 3, 14, 36, 35, 25, 28, 40, 17, 24, 34, 21, 2, 1, 9, 12, 26, 39, 8, 5, 7, 4, 11, 6, 13, 10, 23, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 256
+[18, 22, 27, 35, 36, 37, 32, 23, 31, 30, 26, 29, 41, 11, 7, 4, 15, 8, 5, 16, 20, 33, 38, 39, 17, 21, 24, 34, 19, 1, 2, 9, 14, 40, 12, 6, 10, 3, 13, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 436
+[22, 23, 37, 30, 31, 16, 11, 4, 38, 29, 39, 13, 10, 3, 6, 20, 8, 5, 33, 7, 15, 32, 40, 34, 35, 27, 26, 12, 19, 18, 24, 9, 1, 2, 14, 25, 41, 28, 17, 21, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: PMX recombination (0.8)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 298
+[3, 10, 18, 19, 1, 2, 9, 17, 22, 27, 36, 35, 40, 11, 8, 5, 4, 7, 37, 38, 33, 15, 16, 20, 41, 34, 24, 21, 28, 39, 29, 14, 12, 6, 31, 30, 32, 23, 25, 13, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 443
+[37, 26, 23, 33, 38, 4, 7, 11, 3, 10, 12, 41, 28, 13, 5, 16, 15, 8, 32, 31, 30, 40, 21, 17, 22, 19, 36, 35, 24, 34, 29, 14, 20, 39, 6, 2, 1, 9, 18, 27, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 367
+[4, 11, 7, 8, 5, 16, 15, 20, 33, 38, 32, 28, 10, 12, 13, 25, 40, 3, 14, 6, 37, 31, 23, 30, 41, 18, 19, 22, 2, 1, 9, 17, 24, 21, 35, 34, 39, 26, 29, 36, 27]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 418
+[29, 16, 38, 20, 8, 5, 40, 15, 33, 7, 11, 4, 12, 32, 30, 31, 39, 10, 25, 28, 23, 37, 41, 26, 14, 6, 3, 24, 34, 17, 21, 13, 22, 18, 1, 2, 9, 19, 35, 36, 27]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 390
+[2, 1, 9, 18, 34, 24, 21, 17, 19, 22, 27, 25, 3, 28, 36, 35, 13, 41, 6, 12, 10, 29, 26, 40, 14, 5, 8, 4, 7, 15, 20, 16, 23, 32, 11, 37, 33, 38, 30, 31, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 282
+[6, 11, 7, 4, 12, 29, 39, 5, 8, 15, 16, 20, 33, 38, 37, 32, 23, 30, 31, 40, 17, 10, 3, 2, 1, 9, 18, 19, 22, 27, 35, 36, 34, 41, 28, 13, 26, 14, 24, 21, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 404
+[10, 13, 29, 39, 8, 15, 7, 4, 11, 5, 16, 20, 33, 37, 32, 38, 40, 19, 25, 21, 14, 31, 24, 34, 17, 18, 36, 27, 22, 35, 41, 30, 26, 9, 2, 1, 3, 6, 23, 28, 12]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 331
+[1, 2, 9, 3, 10, 19, 22, 25, 29, 26, 14, 12, 21, 17, 35, 39, 11, 23, 32, 37, 20, 15, 4, 7, 5, 8, 16, 33, 38, 41, 34, 24, 28, 27, 36, 18, 13, 6, 30, 31, 40]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 412
+[19, 18, 22, 21, 34, 27, 36, 35, 2, 1, 17, 28, 24, 29, 26, 41, 25, 39, 6, 13, 10, 9, 3, 12, 14, 30, 31, 23, 32, 33, 37, 40, 8, 5, 15, 20, 38, 16, 4, 11, 7]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 304
+[16, 15, 20, 33, 38, 37, 32, 23, 24, 40, 4, 7, 11, 8, 5, 3, 6, 14, 25, 31, 30, 41, 1, 2, 9, 17, 21, 34, 35, 36, 27, 22, 18, 19, 10, 12, 29, 39, 26, 13, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 333
+[33, 38, 20, 16, 11, 4, 7, 5, 8, 15, 32, 37, 31, 30, 39, 23, 26, 12, 10, 6, 14, 13, 28, 25, 29, 41, 34, 24, 36, 40, 35, 27, 19, 18, 22, 17, 21, 9, 1, 2, 3]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 283
+[2, 5, 8, 4, 7, 11, 32, 37, 39, 23, 30, 26, 20, 16, 15, 33, 38, 40, 9, 1, 10, 3, 6, 12, 14, 31, 41, 29, 13, 22, 19, 18, 24, 34, 21, 17, 36, 35, 27, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 354
+[5, 8, 20, 38, 33, 14, 26, 12, 29, 41, 11, 4, 7, 32, 16, 15, 37, 23, 39, 36, 27, 19, 18, 3, 10, 13, 28, 6, 30, 31, 40, 25, 35, 22, 24, 21, 9, 2, 1, 17, 34]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 356
+[6, 1, 2, 9, 18, 22, 24, 34, 27, 19, 36, 35, 41, 21, 17, 25, 13, 30, 39, 28, 29, 12, 14, 10, 3, 4, 11, 7, 32, 40, 26, 23, 5, 8, 15, 38, 33, 37, 16, 20, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 296
+[5, 16, 33, 38, 32, 37, 30, 31, 41, 4, 7, 11, 8, 20, 15, 23, 14, 12, 6, 10, 3, 27, 36, 35, 40, 17, 9, 1, 2, 21, 34, 24, 22, 18, 19, 13, 26, 29, 28, 25, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 476
+[32, 11, 7, 4, 16, 18, 36, 27, 33, 38, 41, 20, 5, 31, 15, 8, 37, 39, 21, 24, 9, 1, 2, 3, 6, 13, 29, 26, 30, 25, 22, 34, 35, 28, 40, 14, 12, 10, 19, 17, 23]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 247
+[8, 5, 4, 7, 11, 15, 16, 20, 38, 33, 32, 37, 40, 23, 30, 31, 29, 26, 14, 12, 6, 3, 10, 13, 25, 28, 41, 2, 1, 9, 21, 17, 34, 24, 18, 19, 22, 35, 36, 27, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 472
+[14, 25, 30, 15, 16, 11, 4, 6, 10, 12, 37, 40, 2, 1, 9, 7, 8, 5, 20, 19, 18, 27, 36, 39, 13, 22, 38, 31, 23, 26, 41, 21, 17, 34, 24, 35, 28, 3, 33, 32, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 299
+[11, 7, 4, 5, 8, 33, 16, 15, 20, 28, 25, 39, 12, 23, 32, 37, 38, 30, 31, 40, 21, 17, 2, 1, 9, 10, 13, 6, 3, 14, 29, 41, 26, 18, 22, 27, 36, 35, 19, 24, 34]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 464
+[25, 29, 16, 30, 31, 40, 5, 8, 4, 7, 11, 15, 23, 6, 3, 2, 27, 28, 13, 32, 37, 39, 1, 9, 10, 18, 36, 24, 19, 34, 21, 17, 22, 41, 12, 14, 26, 35, 20, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 288
+[21, 24, 34, 36, 35, 27, 19, 18, 22, 26, 29, 25, 28, 23, 30, 31, 41, 6, 12, 14, 3, 10, 13, 11, 16, 20, 32, 37, 40, 17, 1, 2, 9, 8, 5, 4, 7, 15, 33, 38, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 487
+[10, 7, 15, 33, 30, 12, 11, 26, 23, 28, 39, 16, 8, 5, 31, 25, 2, 1, 34, 24, 40, 22, 18, 17, 9, 19, 27, 36, 35, 37, 41, 29, 3, 6, 13, 21, 14, 4, 20, 38, 32]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 475
+[24, 34, 35, 18, 14, 32, 15, 7, 8, 5, 16, 33, 38, 23, 31, 30, 39, 10, 6, 40, 17, 26, 29, 20, 11, 4, 21, 1, 9, 22, 37, 41, 3, 2, 19, 13, 12, 27, 36, 28, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 484
+[12, 23, 15, 16, 32, 38, 33, 37, 20, 11, 4, 41, 17, 2, 9, 18, 22, 36, 27, 1, 24, 34, 21, 25, 28, 39, 3, 14, 13, 26, 10, 7, 5, 8, 29, 19, 35, 40, 6, 31, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 466
+[13, 17, 1, 27, 18, 26, 35, 37, 40, 15, 16, 32, 38, 33, 5, 8, 4, 23, 12, 9, 2, 21, 36, 41, 7, 11, 31, 30, 20, 10, 14, 6, 3, 25, 28, 39, 29, 34, 24, 19, 22]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 396
+[8, 20, 16, 15, 11, 7, 41, 4, 5, 33, 38, 32, 37, 30, 31, 29, 23, 40, 35, 36, 27, 25, 28, 26, 12, 3, 14, 22, 19, 18, 24, 13, 39, 6, 1, 9, 10, 2, 17, 21, 34]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 436
+[4, 10, 12, 9, 29, 39, 13, 3, 8, 16, 5, 15, 20, 11, 7, 23, 30, 26, 40, 1, 6, 2, 24, 34, 17, 21, 18, 19, 14, 31, 41, 35, 22, 28, 36, 27, 25, 33, 38, 37, 32]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 455
+[10, 7, 11, 8, 20, 5, 4, 33, 38, 31, 30, 29, 39, 13, 25, 28, 18, 15, 16, 26, 12, 40, 34, 17, 24, 36, 37, 32, 14, 22, 23, 41, 6, 2, 9, 1, 21, 35, 27, 19, 3]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 459
+[14, 26, 23, 8, 5, 30, 16, 15, 20, 28, 38, 32, 31, 41, 11, 7, 4, 10, 25, 39, 3, 1, 9, 2, 17, 13, 35, 34, 19, 36, 27, 24, 21, 22, 18, 40, 12, 6, 33, 37, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 452
+[9, 12, 10, 3, 5, 8, 15, 33, 41, 21, 2, 1, 6, 13, 36, 35, 22, 24, 19, 27, 39, 18, 34, 26, 17, 25, 28, 14, 11, 37, 40, 31, 4, 7, 20, 16, 23, 29, 38, 30, 32]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 461
+[16, 5, 8, 11, 4, 7, 14, 26, 6, 35, 36, 41, 15, 20, 33, 38, 30, 31, 13, 9, 3, 39, 17, 21, 1, 29, 12, 23, 32, 37, 40, 34, 22, 27, 19, 18, 25, 28, 24, 2, 10]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 360
+[10, 3, 13, 19, 6, 39, 12, 5, 8, 15, 20, 33, 38, 30, 40, 17, 21, 28, 14, 26, 16, 4, 11, 7, 37, 32, 23, 41, 31, 29, 35, 22, 18, 2, 1, 9, 24, 34, 36, 27, 25]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 456
+[22, 26, 34, 17, 19, 27, 29, 23, 12, 30, 39, 9, 1, 2, 18, 10, 14, 6, 35, 36, 13, 28, 41, 25, 21, 24, 38, 32, 40, 20, 33, 16, 15, 11, 4, 3, 5, 8, 7, 37, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 384
+[27, 37, 32, 38, 20, 16, 8, 5, 4, 7, 11, 25, 28, 39, 15, 33, 40, 23, 29, 6, 3, 10, 34, 24, 18, 30, 31, 41, 36, 35, 13, 19, 22, 17, 21, 9, 1, 2, 12, 26, 14]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 468
+[9, 2, 1, 6, 32, 12, 31, 39, 36, 33, 29, 23, 26, 41, 21, 34, 17, 24, 19, 28, 18, 13, 27, 25, 22, 30, 40, 14, 10, 3, 20, 16, 7, 4, 11, 8, 15, 5, 38, 37, 35]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 384
+[17, 34, 21, 13, 3, 9, 19, 27, 22, 12, 14, 39, 6, 2, 1, 4, 7, 8, 5, 11, 10, 40, 24, 18, 41, 26, 23, 32, 37, 30, 31, 20, 15, 16, 33, 38, 29, 28, 25, 35, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 304
+[32, 37, 38, 20, 16, 15, 33, 23, 30, 40, 8, 5, 7, 11, 4, 6, 3, 10, 13, 12, 14, 26, 31, 41, 21, 17, 34, 24, 25, 28, 39, 36, 35, 27, 22, 19, 18, 9, 2, 1, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 395
+[1, 18, 10, 13, 4, 7, 8, 5, 20, 15, 23, 37, 41, 11, 29, 12, 6, 3, 14, 27, 35, 36, 39, 28, 25, 22, 21, 9, 2, 17, 19, 34, 24, 26, 40, 30, 31, 33, 16, 32, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 293
+[15, 38, 33, 20, 16, 8, 5, 7, 4, 11, 32, 37, 31, 30, 41, 23, 40, 2, 9, 1, 3, 10, 6, 14, 12, 13, 25, 28, 39, 26, 19, 18, 35, 27, 36, 22, 21, 17, 24, 34, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 380
+[13, 3, 10, 14, 30, 16, 20, 38, 37, 32, 23, 41, 12, 25, 26, 29, 27, 40, 24, 18, 6, 11, 7, 4, 5, 8, 15, 33, 35, 39, 31, 28, 34, 21, 19, 22, 9, 1, 2, 17, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 2 (0.8)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 317
+[7, 4, 11, 5, 8, 16, 15, 32, 20, 33, 38, 40, 31, 30, 37, 23, 14, 6, 13, 29, 26, 39, 9, 2, 1, 3, 12, 10, 25, 41, 28, 19, 36, 35, 27, 24, 34, 21, 17, 22, 18]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 399
+[18, 17, 1, 2, 9, 24, 38, 31, 28, 22, 27, 35, 40, 33, 15, 16, 8, 20, 5, 7, 11, 4, 3, 10, 29, 39, 21, 25, 13, 6, 19, 36, 34, 41, 26, 37, 32, 30, 23, 12, 14]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 380
+[10, 3, 18, 36, 35, 22, 19, 2, 9, 1, 21, 17, 24, 25, 28, 39, 14, 26, 40, 34, 27, 31, 37, 33, 20, 16, 32, 29, 41, 13, 12, 6, 30, 23, 8, 5, 15, 7, 4, 11, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 366
+[10, 13, 22, 19, 18, 2, 24, 21, 39, 23, 5, 16, 20, 15, 11, 6, 12, 14, 25, 28, 36, 35, 27, 41, 9, 1, 34, 17, 3, 4, 7, 8, 37, 32, 40, 29, 26, 31, 30, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 358
+[22, 19, 18, 1, 2, 9, 17, 37, 32, 33, 38, 41, 6, 5, 26, 29, 39, 25, 28, 21, 34, 24, 27, 35, 36, 30, 31, 14, 12, 40, 23, 20, 4, 7, 11, 8, 15, 16, 3, 10, 13]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 376
+[3, 2, 9, 21, 34, 24, 13, 12, 41, 6, 11, 7, 16, 33, 20, 38, 32, 30, 39, 1, 10, 17, 22, 18, 19, 35, 36, 27, 28, 26, 40, 25, 29, 14, 23, 5, 8, 4, 15, 37, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 372
+[18, 28, 40, 3, 4, 7, 11, 15, 37, 32, 30, 31, 14, 12, 25, 41, 34, 35, 23, 20, 16, 8, 6, 5, 33, 38, 39, 26, 13, 10, 1, 2, 9, 19, 22, 27, 36, 24, 21, 17, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 337
+[9, 17, 13, 27, 18, 3, 6, 12, 14, 23, 30, 31, 41, 7, 4, 11, 8, 20, 5, 33, 32, 37, 40, 1, 2, 10, 21, 24, 34, 36, 19, 22, 35, 25, 28, 39, 29, 26, 16, 15, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 376
+[4, 11, 23, 16, 8, 5, 15, 30, 31, 22, 25, 41, 6, 3, 10, 13, 9, 2, 1, 18, 39, 17, 19, 21, 24, 34, 35, 27, 40, 29, 20, 7, 32, 37, 38, 33, 14, 12, 26, 28, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 410
+[22, 10, 3, 13, 25, 32, 39, 19, 9, 34, 31, 30, 23, 11, 5, 8, 20, 16, 33, 38, 40, 17, 21, 36, 35, 14, 12, 7, 4, 15, 26, 29, 41, 6, 1, 2, 24, 27, 18, 28, 37]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 319
+[1, 2, 9, 19, 27, 36, 14, 6, 13, 28, 31, 30, 23, 26, 40, 8, 5, 11, 4, 7, 15, 16, 20, 33, 32, 37, 38, 41, 10, 3, 12, 29, 25, 18, 22, 35, 24, 21, 17, 34, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 389
+[27, 36, 32, 16, 11, 6, 3, 10, 25, 40, 13, 4, 7, 15, 20, 33, 37, 38, 23, 30, 31, 41, 9, 2, 1, 34, 17, 24, 21, 18, 22, 19, 26, 14, 28, 39, 12, 5, 8, 29, 35]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 370
+[1, 3, 12, 14, 10, 13, 18, 19, 17, 21, 24, 34, 22, 31, 41, 23, 30, 28, 27, 36, 35, 25, 16, 11, 37, 39, 9, 2, 6, 4, 7, 8, 5, 33, 38, 40, 32, 15, 20, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 343
+[18, 22, 24, 17, 9, 2, 1, 3, 10, 6, 11, 32, 23, 26, 41, 14, 28, 36, 35, 27, 19, 21, 34, 39, 25, 13, 12, 7, 4, 8, 5, 20, 38, 37, 30, 31, 40, 33, 16, 15, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 362
+[6, 12, 23, 37, 32, 16, 35, 36, 28, 25, 29, 26, 40, 11, 8, 5, 20, 15, 33, 38, 30, 31, 41, 17, 21, 19, 22, 24, 18, 27, 39, 13, 7, 4, 3, 10, 9, 1, 2, 34, 14]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 384
+[1, 9, 28, 39, 8, 5, 7, 11, 4, 14, 23, 38, 15, 37, 32, 41, 2, 24, 36, 34, 25, 26, 16, 20, 33, 30, 31, 40, 6, 12, 13, 10, 3, 22, 18, 21, 17, 27, 35, 19, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 364
+[36, 35, 40, 11, 4, 5, 8, 15, 6, 1, 2, 9, 19, 23, 29, 41, 24, 34, 27, 21, 17, 22, 18, 10, 3, 13, 25, 26, 14, 30, 31, 39, 32, 33, 38, 37, 7, 16, 20, 28, 12]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 375
+[3, 10, 19, 22, 30, 31, 21, 17, 34, 24, 18, 2, 1, 9, 13, 40, 8, 16, 35, 27, 36, 14, 26, 6, 12, 29, 39, 25, 28, 41, 23, 37, 32, 7, 11, 4, 5, 15, 20, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 339
+[3, 10, 2, 1, 9, 19, 13, 28, 25, 22, 36, 27, 16, 15, 20, 32, 37, 39, 6, 14, 31, 30, 23, 26, 12, 4, 7, 11, 8, 5, 38, 33, 41, 24, 21, 34, 17, 18, 35, 40, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 354
+[3, 4, 7, 15, 20, 37, 32, 16, 33, 38, 29, 40, 6, 19, 18, 35, 36, 27, 1, 2, 17, 21, 28, 39, 9, 22, 13, 23, 31, 30, 41, 26, 14, 12, 11, 8, 5, 10, 25, 34, 24]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 376
+[18, 26, 24, 27, 36, 35, 17, 2, 1, 9, 25, 13, 28, 40, 16, 20, 15, 4, 6, 31, 30, 38, 33, 23, 32, 37, 39, 10, 12, 14, 11, 7, 5, 8, 3, 19, 22, 21, 34, 29, 41]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 345
+[1, 2, 9, 12, 26, 23, 20, 11, 7, 4, 32, 33, 38, 39, 6, 14, 34, 21, 17, 24, 27, 22, 19, 35, 36, 25, 28, 40, 10, 3, 18, 13, 5, 8, 15, 16, 30, 31, 37, 41, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 385
+[10, 14, 28, 37, 33, 7, 4, 11, 16, 20, 32, 40, 6, 12, 26, 25, 19, 22, 17, 24, 13, 23, 30, 41, 3, 5, 8, 15, 38, 31, 39, 29, 34, 35, 27, 21, 9, 1, 2, 18, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 310
+[19, 13, 12, 39, 23, 30, 31, 37, 32, 20, 33, 38, 26, 41, 9, 1, 2, 17, 21, 24, 34, 22, 27, 18, 10, 3, 29, 40, 16, 15, 8, 5, 4, 7, 11, 6, 14, 28, 25, 35, 36]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 267
+[10, 3, 1, 2, 9, 17, 25, 13, 6, 14, 39, 16, 11, 7, 4, 5, 8, 15, 20, 33, 38, 37, 32, 30, 41, 21, 24, 34, 35, 36, 27, 18, 19, 22, 28, 40, 12, 31, 23, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 326
+[19, 18, 21, 17, 22, 30, 31, 16, 15, 20, 33, 32, 41, 6, 14, 12, 23, 26, 40, 34, 9, 2, 1, 10, 3, 13, 24, 27, 36, 35, 39, 37, 38, 8, 5, 7, 11, 4, 25, 28, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 280
+[2, 1, 3, 10, 23, 32, 37, 40, 11, 5, 8, 15, 16, 20, 33, 38, 41, 9, 17, 21, 24, 34, 22, 18, 19, 25, 35, 27, 36, 39, 28, 13, 14, 12, 6, 4, 7, 31, 30, 26, 29]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 338
+[13, 25, 28, 34, 24, 21, 9, 2, 1, 19, 18, 27, 26, 29, 40, 3, 6, 39, 17, 22, 20, 16, 15, 7, 11, 4, 5, 8, 33, 38, 31, 23, 41, 36, 35, 10, 14, 12, 30, 32, 37]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Insert Mutation (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 276
+[1, 2, 9, 21, 24, 17, 10, 3, 14, 40, 31, 30, 32, 37, 33, 38, 39, 11, 7, 4, 5, 8, 16, 15, 20, 23, 29, 41, 26, 12, 6, 13, 25, 28, 18, 19, 22, 27, 36, 35, 34]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 275
+[9, 17, 18, 19, 13, 10, 3, 6, 12, 14, 28, 25, 27, 35, 36, 40, 11, 7, 4, 5, 8, 15, 16, 20, 32, 37, 31, 30, 23, 26, 29, 41, 1, 2, 21, 24, 34, 22, 33, 38, 39]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 2 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 362
+[14, 32, 38, 33, 11, 4, 15, 26, 29, 39, 36, 27, 22, 31, 30, 40, 24, 34, 21, 17, 9, 1, 2, 13, 3, 10, 19, 35, 18, 25, 28, 41, 12, 6, 23, 16, 7, 8, 5, 20, 37]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 282
+[1, 2, 9, 17, 21, 27, 36, 25, 39, 4, 7, 23, 19, 18, 22, 35, 28, 40, 24, 34, 13, 10, 3, 6, 14, 12, 31, 30, 29, 41, 26, 32, 37, 11, 8, 5, 16, 15, 20, 33, 38]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 2 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 339
+[2, 6, 4, 11, 7, 38, 33, 23, 31, 40, 14, 12, 13, 8, 5, 16, 20, 15, 30, 39, 21, 24, 17, 1, 9, 3, 10, 29, 41, 32, 37, 25, 28, 36, 35, 27, 18, 19, 34, 22, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 271
+[3, 10, 13, 22, 19, 2, 1, 9, 17, 21, 24, 34, 29, 26, 41, 23, 11, 7, 4, 5, 8, 16, 15, 20, 33, 38, 32, 37, 31, 39, 18, 35, 36, 27, 14, 12, 6, 28, 25, 30, 40]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 2 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 348
+[18, 36, 12, 6, 4, 11, 8, 5, 15, 23, 41, 3, 1, 9, 2, 19, 22, 17, 21, 24, 34, 35, 27, 39, 10, 13, 40, 29, 26, 7, 16, 20, 33, 38, 37, 32, 30, 31, 25, 14, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 296
+[10, 11, 7, 4, 5, 8, 20, 29, 39, 23, 32, 37, 38, 33, 16, 15, 6, 12, 14, 41, 9, 1, 2, 3, 19, 18, 22, 26, 40, 28, 25, 13, 21, 24, 34, 36, 35, 27, 17, 30, 31]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 3 (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 340
+[10, 3, 2, 1, 9, 6, 16, 15, 33, 38, 40, 4, 7, 11, 5, 8, 13, 36, 35, 34, 24, 18, 19, 41, 27, 28, 25, 20, 37, 32, 23, 29, 26, 39, 22, 21, 17, 12, 14, 31, 30]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 318
+[19, 18, 22, 6, 37, 32, 16, 15, 20, 29, 26, 39, 12, 14, 23, 33, 38, 40, 11, 7, 4, 8, 5, 3, 10, 13, 31, 30, 41, 36, 35, 27, 2, 1, 9, 17, 24, 34, 21, 25, 28]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.7)
+Mutation:Mutation 3 (0.1)
+Problem file: ../data_sets/problem4.txt
+Fitness: 312
+[13, 25, 28, 35, 36, 27, 18, 19, 14, 39, 4, 32, 37, 33, 20, 15, 16, 11, 7, 5, 8, 38, 40, 6, 12, 23, 30, 31, 41, 29, 26, 10, 3, 1, 2, 9, 17, 24, 21, 34, 22]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 250
+Max generations: 150
+Selection: Tournament selection(2)
+Recombination: Recombination 3 (0.8)
+Mutation:Mutation 3 (0.09)
+Problem file: ../data_sets/problem4.txt
+Fitness: 334
+[6, 3, 10, 13, 25, 28, 39, 8, 5, 11, 7, 4, 12, 37, 30, 41, 17, 15, 16, 20, 38, 33, 31, 29, 40, 14, 2, 1, 9, 21, 24, 34, 36, 35, 27, 18, 19, 22, 32, 23, 26]
+
+
+
+# --------------------------------------------------------------
+
+Population size: 300
+Max generations: 100
+Selection: Tournament selection(4)
+Recombination: PMX recombination (0.8)
+Mutation:Insert Mutation (0.11)
+Problem file: ../data_sets/problem4.txt
+Fitness: 279
+[19, 18, 22, 13, 29, 20, 33, 38, 30, 31, 41, 12, 6, 3, 10, 9, 21, 25, 28, 39, 1, 2, 17, 24, 34, 35, 27, 36, 40, 26, 14, 23, 11, 7, 4, 8, 5, 16, 15, 32, 37]
+
+
+
+# --------------------------------------------------------------

@@ -1,0 +1,21 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:	Problem file: 		Fitness:
+200	100	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		189
+200	150	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		183
+200	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		183
+200	250	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		183
+250	100	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		179
+250	150	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		179
+250	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		179
+250	250	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		179
+300	100	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		171
+300	150	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167
+300	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167
+300	250	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167
+350	100	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		181
+350	150	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		171
+350	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		171
+350	250	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		171
+400	100	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167
+400	150	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167
+400	200	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167
+400	250	Tournament selection(2)	Recombination 2 (0.6)	Insert Mutation (0.1)	./problem3.txt		167

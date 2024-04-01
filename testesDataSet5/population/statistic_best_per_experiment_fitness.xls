@@ -1,0 +1,17 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:	Problem file: 		Fitness:
+500	80	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		397
+500	100	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		379
+500	150	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		379
+500	200	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		379
+550	80	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		409
+550	100	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		405
+550	150	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		405
+550	200	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		403
+600	80	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		417
+600	100	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		403
+600	150	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		385
+600	200	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		385
+650	80	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		371
+650	100	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		371
+650	150	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		371
+650	200	Tournament selection(4)	Recombination 2 (0.8)	Mutation 3 (0.11)	./problem5.txt		371
